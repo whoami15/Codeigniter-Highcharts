@@ -1,6 +1,11 @@
 # Codeigniter-Highcharts
 
 ##Demo can see at the Admin Panel --> http://www.cmap.x10host.com
+Or see this Pic. 
+#https://postimg.org/image/fpw6h2dh9/
+#https://postimg.org/image/90pn11s59/
+#https://postimg.org/image/miwjdc4al/
+
 Line Chart, Pie Chart in Codeigniter using Highcharts
 
 
