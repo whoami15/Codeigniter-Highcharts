@@ -13,6 +13,7 @@ class Dashboard extends CI_Controller {
     }
 
     public function index() {
+           //This is for PIE Chart. You need to count the table rows.
 
 		$data['title'] = 'Dashboard';
 		
@@ -25,9 +26,8 @@ class Dashboard extends CI_Controller {
 		$data['vawc'] = $this->Data->countTotalVAWC();
 		$data['pInjury'] = $this->Data->countTotalPInjury();
 		$data['vta'] = $this->Data->countTotalVTA();
-		
-        $data['content'] = 'admin/dashboard/index';
-        $this->load->view($this->template, $data);
+
+        $this->load->view('admin/dashboard/index', $data);
     }
 
     
