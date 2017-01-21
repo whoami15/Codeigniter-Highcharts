@@ -1,5 +1,8 @@
 # Codeigniter-Highcharts
+
+##Demo can see at the Admin Panel --> http://www.cmap.x10host.com
 Line Chart, Pie Chart in Codeigniter using Highcharts
+
 
 This will Get data from Database by Month & Year and show in Highcharts.
 
