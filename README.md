@@ -9,7 +9,7 @@ or check the screenshots below
 - https://postimg.org/image/90pn11s59/
 - https://postimg.org/image/miwjdc4al/
 
-## Line and Pie chart in CodeIgniter with Highcharts
+## Line and Pie chart using CodeIgniter with Highcharts
 
 ```mysql
 CREATE TABLE IF NOT EXISTS `users` (
